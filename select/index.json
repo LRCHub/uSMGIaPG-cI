@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "最上級にかわいいの！feat. コレサワ",
+  "base_artist": "超ときめき♡宣伝部",
+  "createdAt": "2026-03-03T08:28:14.074265Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "最上級にかわいいの！feat. コレサワ",
+      "artist": "Cho Tokimeki Sendenbu",
+      "has_synced": false,
+      "path": "select/01_最上級にかわいいの!feat._コレサワ_Cho_Tokimeki_Sendenbu.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "最上級にかわいいの!feat.コレサワ",
+      "artist": "超ときめき 宣伝部",
+      "has_synced": false,
+      "path": "select/pl_01_最上級にかわいいの!feat.コレサワ_超ときめき_宣伝部.txt"
+    }
+  ]
+}
